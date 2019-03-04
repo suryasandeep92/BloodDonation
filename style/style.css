@@ -1,0 +1,41 @@
+.registration
+{
+	width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#span_display { display:block;
+       margin:0 auto;
+       width:300px;
+}
+
+#span_display a { padding:5px 10px;
+}
+
+.navbar-inverse, .posts_area{
+	width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#post_body{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.donor_name, .donor_blood, .donor_num{
+	width: 30%;
+	display: block;
+	float: left;
+	padding-left: 30px;
+}
+
+#loading{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+
